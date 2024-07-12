@@ -1,0 +1,40 @@
+
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
+li{
+    display: inline;
+    padding: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: burlywood;
+}
+img{
+    height: 190px;
+    width: 180px;
+    border-radius: 50%;
+}
+#PortFolio{
+    background-color: pink;
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+#TECHNICALSKILLS{
+    background-color: linear-gradient(to bottom, #ccff99 18%, #ff99cc 84%);
+    padding: 10px;
+}
+body{
+    background-image: url('resume1.avif') ;
+    background-size: cover;
+    background-attachment: fixed;
+}
